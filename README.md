@@ -1,6 +1,6 @@
 # Abogado Parser
 
-Parser untuk file script visual novel **Shuumatsu no Sugoshikata The World is Drawing to an W/end.**
+Parser untuk file script visual novel **~Shuumatsu no Sugoshikata The World is Drawing to an W/end.~**
 
 ## Deskripsi
 
